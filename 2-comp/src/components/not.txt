@@ -1,0 +1,3 @@
+İki çeşit Components mevcut
+i) Class based Miladı doldu.
+ii) function based 
